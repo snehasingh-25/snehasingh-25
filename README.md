@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I am Sneha Singh 👋
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/snehasingh25?theme=dark&font=Donegal%20One&ext=heatmap)
 <!--
