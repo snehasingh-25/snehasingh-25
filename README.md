@@ -17,11 +17,10 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/snehasingh25?theme=dark&font=Donegal%20One&ext=heatmap)
 
 ### 📈 GitHub Stats  
-![Sneha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=snehasingh-25&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snehasingh-25&layout=compact&theme=radical)  
+![Sneha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=snehasingh-25&show_icons=true&theme=radical)   
 
 ### 📫 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sneha-singh-3093572ba/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=flat&logo=appveyor)](https://snehasingh-25.github.io/Portfolio/)  
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](sneha251104@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:sneha251104@gmail.com)  
 
