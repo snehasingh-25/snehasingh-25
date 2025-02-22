@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/snehasingh25?theme=dark&font=Donegal%20One&ext=heatmap)
 <!--
 **snehasingh-25/snehasingh-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
