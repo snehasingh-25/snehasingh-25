@@ -33,16 +33,15 @@
 </p>
 <br>
 
-### 📫 Let's Connect  
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sneha-singh-3093572ba/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=githubpages&logoColor=white)](https://snehasingh-25.github.io/Portfolio/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sneha251104@gmail.com)
-
-
 ### 💻 Tech Stack  
 - **Languages:** C, C++, JavaScript, Python  
 - **Web Dev:** HTML, CSS, React.js, Node.js  
 - **3D Graphics:** Three.js  
 - **Data Structures & Algorithms:** Arrays, Strings, Hashing, DP, Greedy, DFS, BFS  
 - **Tools:** Git, GitHub, VS Code, NPM, Parcel
+
+### 📫 Let's Connect  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sneha-singh-3093572ba/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=githubpages&logoColor=white)](https://snehasingh-25.github.io/Portfolio/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sneha251104@gmail.com)
