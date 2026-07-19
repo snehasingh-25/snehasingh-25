@@ -36,12 +36,6 @@
 </p>
 <br>
 
-### 💻 Tech Stack  
-- **Languages:** C, C++, JavaScript, Python  
-- **Web Dev:** HTML, CSS, React.js, Node.js  
-- **3D Graphics:** Three.js  
-- **Data Structures & Algorithms:** Arrays, Strings, Hashing, DP, Greedy, DFS, BFS  
-- **Tools:** Git, GitHub, VS Code, NPM, Parcel
 
 ### 📫 Let's Connect  
 
