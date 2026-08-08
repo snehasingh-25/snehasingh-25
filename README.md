@@ -22,10 +22,10 @@
         <img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" height="50" width="50" />
     </a>
   <a href="https://leetcode.com/u/snehasingh25/" target="_blank">
-        <img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode 50 Days 2025 Badge" height="200" width="200" />
+        <img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode 50 Days 2025 Badge" height="50" width="50" />
     </a>
     <a href="https://leetcode.com/u/snehasingh25/" target="_blank">
-        <img align="center" src="https://assets.leetcode.com/static_assets/marketing/202502.gif" height="200" width="200" />
+        <img align="center" src="https://assets.leetcode.com/static_assets/marketing/202502.gif" height="50" width="50" />
     </a>
 </p>
 
