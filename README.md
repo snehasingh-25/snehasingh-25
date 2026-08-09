@@ -1,18 +1,30 @@
 <h1 align="center">
-  Hey there, I'm Sneha Singh 
+  Hey there, I'm Sneha Singh 👋
 </h1>
 
 <h3 align="center">
-  <strong>Developer | Problem Solver | Tech Enthusiast</strong>
+  Full Stack Developer • Creative Developer • Problem Solver
 </h3>
 
-
 <br>
-<div>
-  🔭 Passionate about <strong>web development, algorithms, and 3D visualization</strong> <br><br>
-  🧋 I love problem solving <br><br>
-  💬 Open to collaborating with people with similar interests
+
+<p align="center">
+  I build things, break things, figure out why they broke, and then build them better.
+</p>
+
+<div align="center">
+
+- Full Stack Developer Intern at <strong>CAST Software</strong><br><br>
+- Building and shipping production applications as a <strong>Freelance Developer</strong><br><br>
+- Working primarily with <strong>React.js, Node.js, TypeScript & PostgreSQL</strong><br><br>
+- <strong>1000+ DSA problems</strong> solved across LeetCode & GeeksforGeeks<br><br>
+- Exploring <strong>creative development, game development, 3D & interactive experiences</strong><br><br>
+- Always learning. Always building. Always curious about how things work.<br><br>
+- Open to interesting collaborations and opportunities
+
 </div>
+
+
 
 ## Leetcode Info
 
