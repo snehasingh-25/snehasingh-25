@@ -27,6 +27,9 @@
     <a href="https://leetcode.com/u/snehasingh25/" target="_blank">
         <img align="center" src="https://assets.leetcode.com/static_assets/marketing/202502.gif" height="50" width="50" />
     </a>
+  <a href="https://leetcode.com/u/snehasingh25/" target="_blank">
+        <img align="center" src="[https://assets.leetcode.com/static_assets/marketing/202502.gif](https://assets.leetcode.com/static_assets/marketing/365_new.gif)" height="50" width="50" />
+    </a>
 </p>
 
 <p align="center">
