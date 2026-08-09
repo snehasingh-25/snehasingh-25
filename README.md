@@ -1,6 +1,5 @@
 <h1 align="center">
   Hey there, I'm Sneha Singh 
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
 </h1>
 
 <h3 align="center">
@@ -28,7 +27,19 @@
         <img align="center" src="https://assets.leetcode.com/static_assets/marketing/202502.gif" height="50" width="50" />
     </a>
   <a href="https://leetcode.com/u/snehasingh25/" target="_blank">
-        <img align="center" src="[https://assets.leetcode.com/static_assets/marketing/202502.gif](https://assets.leetcode.com/static_assets/marketing/365_new.gif)" height="50" width="50" />
+        <img align="center" src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" height="50" width="50" />
+    </a>
+  <a href="https://leetcode.com/u/snehasingh25/" target="_blank">
+        <img align="center" src="https://assets.leetcode.com/static_assets/others/200.gif" height="50" width="50" />
+    </a>
+  <a href="https://leetcode.com/u/snehasingh25/" target="_blank">
+        <img align="center" src="https://assets.leetcode.com/static_assets/others/2025.gif" height="50" width="50" />
+    </a>
+  <a href="https://leetcode.com/u/snehasingh25/" target="_blank">
+        <img align="center" src="https://assets.leetcode.com/static_assets/marketing/6.gif" height="50" width="50" />
+    </a>
+  <a href="https://leetcode.com/u/snehasingh25/" target="_blank">
+        <img align="center" src="https://assets.leetcode.com/static_assets/others/100.gif" height="50" width="50" />
     </a>
 </p>
 
