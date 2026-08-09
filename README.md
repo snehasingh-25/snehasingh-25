@@ -1,25 +1,20 @@
-<h1 align="center">
-  Hey there, I'm Sneha Singh 👋
-</h1>
+<h2 align="center">
+  Hey there, I'm Sneha Singh 
+</h2>
 
-<h3 align="center">
+<h4 align="center">
   Full Stack Developer • Creative Developer • Problem Solver
-</h3>
+  I build things, break things, figure out why they broke, and then build them better.
+</h4>
 
 <br>
-
-<p align="center">
-  I build things, break things, figure out why they broke, and then build them better.
-</p>
 
 <div>
 
 - Full Stack Developer Intern at <strong>CAST Software</strong><br><br>
 - Building and shipping production applications as a <strong>Freelance Developer</strong><br><br>
-- Working primarily with <strong>React.js, Node.js, TypeScript & PostgreSQL</strong><br><br>
 - <strong>1000+ DSA problems</strong> solved across LeetCode & GeeksforGeeks<br><br>
 - Exploring <strong>creative development, game development, 3D & interactive experiences</strong><br><br>
-- Always learning. Always building. Always curious about how things work.<br><br>
 - Open to interesting collaborations and opportunities
 
 </div>
