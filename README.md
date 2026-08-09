@@ -3,7 +3,7 @@
 </h2>
 
 <h4 align="center">
-  Full Stack Developer • Creative Developer • Problem Solver
+  Full Stack Developer • Creative Developer • Problem Solver <br>
   I build things, break things, figure out why they broke, and then build them better.
 </h4>
 
@@ -11,10 +11,10 @@
 
 <div>
 
-- Full Stack Developer Intern at <strong>CAST Software</strong><br><br>
-- Building and shipping production applications as a <strong>Freelance Developer</strong><br><br>
-- <strong>1000+ DSA problems</strong> solved across LeetCode & GeeksforGeeks<br><br>
-- Exploring <strong>creative development, game development, 3D & interactive experiences</strong><br><br>
+- Full Stack Developer Intern at <strong>CAST Software</strong><br>
+- Building and shipping production applications as a <strong>Freelance Developer</strong><br>
+- <strong>1000+ DSA problems</strong> solved across LeetCode & GeeksforGeeks<br>
+- Exploring <strong>creative development, game development, 3D & interactive experiences</strong><br>
 - Open to interesting collaborations and opportunities
 
 </div>
