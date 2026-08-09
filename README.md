@@ -12,7 +12,7 @@
   I build things, break things, figure out why they broke, and then build them better.
 </p>
 
-<div align="center">
+<div>
 
 - Full Stack Developer Intern at <strong>CAST Software</strong><br><br>
 - Building and shipping production applications as a <strong>Freelance Developer</strong><br><br>
